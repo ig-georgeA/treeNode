@@ -30,6 +30,10 @@
   max-width: 338px;
   flex-shrink: 0;
 }
+.igx-tree-node__toggle-button {
+  display:none;
+}
+
 .grid {
   --ig-size: var(--ig-size-medium);
   min-width: 600px;
